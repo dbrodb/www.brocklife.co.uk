@@ -1,6 +1,8 @@
 
 # With gem based method do this instead
 # theme: chulapa-jekyll
+title: Brocklife's homepage
+description: Bookmark this to keep an eye on my project updates!
 # And at this to your Gemfile
 # gem install 'chulapa-jekyll'
 
@@ -9,7 +11,7 @@
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   :     #default["Brock Life"]
+title                   :     #default[""]
 title_separator         :     #default [" | "]
 subtitle                :     #default [For when the world keeps raining down on you, like a big bag of exploding dildos...]
 description             :     #default [your-repository-tagline]

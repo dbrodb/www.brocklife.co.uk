@@ -1,11 +1,3 @@
-# Find errors on this file with http://www.yamllint.com/
-
-# Chulapa docs: https://dieghernan.github.io/chulapa/docs/02-config
-
-# XX. Installing Chulapa
-
-# With remote theme
-remote_theme: dieghernan/chulapa
 
 # With gem based method do this instead
 # theme: chulapa-jekyll
